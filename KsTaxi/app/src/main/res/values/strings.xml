@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">KsTaxi</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="cab">Wanna Go For a Drive!</string>
+    <string name="kate_chen">Kate Chen</string>
+    <string name="take_a_cab">Take a cab</string>
+    <string name="payment">Payment</string>
+    <string name="history">History</string>
+    <string name="navigation_drawer_open">Drawer is Opend</string>
+    <string name="navigation_drawer_close">Drawer is Closed.</string>
+    <string name="data">data.data.data...</string>
+    <string name="pay">$$$$$$$$$$$</string>
+</resources>

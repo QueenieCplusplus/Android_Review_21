@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/setting"
+        android:orderInCategory="100"
+        android:title="setup"
+        app:showAsAction="never"
+        android:icon="@drawable/rule"/>
+
+    <item
+        android:id="@+id/voices"
+        android:orderInCategory="100"
+        android:title="volume"
+        app:showAsAction="never"
+        android:icon="@drawable/voice"/>
+
+    <item
+        android:id="@+id/screen"
+        android:orderInCategory="100"
+        android:title="zoom in"
+        app:showAsAction="never"
+        android:icon="@drawable/zoom"/>
+
+</menu>

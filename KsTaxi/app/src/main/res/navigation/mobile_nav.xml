@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_nav"
+    app:startDestination="@id/taxiFragment">
+
+    <fragment
+        android:id="@+id/customerFragment"
+        android:name="com.katepatty.kstaxi.CustomerFragment"
+        android:label="VIP Customer"
+        tools:layout="@layout/fragment_customer" />
+    <fragment
+        android:id="@+id/historyFragment"
+        android:name="com.katepatty.kstaxi.HistoryFragment"
+        android:label="Backup History"
+        tools:layout="@layout/fragment_history" />
+    <fragment
+        android:id="@+id/taxiFragment"
+        android:name="com.katepatty.kstaxi.TaxiFragment"
+        android:label="Take a Cab"
+        tools:layout="@layout/fragment_taxi" />
+    <fragment
+        android:id="@+id/payFragment"
+        android:name="com.katepatty.kstaxi.PayFragment"
+        android:label="Payment"
+        tools:layout="@layout/fragment_pay" />
+</navigation>
