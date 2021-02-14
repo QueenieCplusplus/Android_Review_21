@@ -4,7 +4,6 @@ Navigation UI with DrawerLayout &amp; FrameLayout
 
 ![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Review_21/main/output1.png)
 
-![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Review_21/main/output2.png)
 
 ![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Review_21/main/output3.png)
 
